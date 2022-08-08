@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# 🗒️ To Do List
+***
+<div align="left">
+<img src="https://user-images.githubusercontent.com/104616883/176903125-80fa5d55-61ed-428d-9852-45bcdbcd8b82.png" align="right" width="150px" />
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado com o [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Este desafio foi baseado no conteúdo aprendido nas últimas aulas de react:
 
-In the project directory, you can run:
+* Método Filter;
+* Metodo Map;
+* Adicionar funções a botões e inputs;
+***
 
-### `npm start`
+## 💻 Tech Stacks:
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" width="50px"/> - 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-fsUCSesKopV4ociDg1Z3kAWrYOyAFAq5Jghd1KhAm6KTkOxEqojHlYdmtiCJSwoPq4&usqp=CAU" align="center" width="50px"/> - 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center" width="50px" /> - 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="center" width="50px" />
+</div>
+<br>
+<br>
+<h2> ⚙️ Funcionalidades: </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para utilizar esta aplicação, basta digitar no campo de texto a tarefa ou lembrete a ser adicionado e clicar em **&plus;** ou **'Enter'**.<br>
+Assim, cada nova tarefa será adicionada sendo posicionada em primeiro lugar em relação à anterior.<br>
+Caso deseje excluir uma tarefa já adicionada, basta clicar no em **&#215;** na frente da tarefa.<br>
+***
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔍 Preview:
+<div align="center">
+   <h3> 🖥️ Desktops/Notebooks: </h3>
+   <div align="center">
+     <img src="https://github.com/Wanderson-Henrique-Oliveira/M2T2-React-Desafio-08-To-Do-List/blob/main/Captura%20de%20tela%202022-08-07%20210134.png?raw=true" width="500px" />
+   </div>
+<br>
+   <div display="flex">
+      <div>
+        <h3> 📱 Tablets: </h3>
+        <img src="https://github.com/Wanderson-Henrique-Oliveira/M2T2-React-Desafio-08-To-Do-List/blob/main/Captura%20de%20tela%202022-08-07%20210312.png?raw=true" width="230px" />
+      </div>
+      <div >
+        <h3> 📱 Smartphones: </h3>
+        <img src="https://github.com/Wanderson-Henrique-Oliveira/M2T2-React-Desafio-08-To-Do-List/blob/main/Captura%20de%20tela%202022-08-07%20210411.png?raw=true" width="150px" />
+      </div>
+  </div>
+<br>
+  <img src="https://github.com/Wanderson-Henrique-Oliveira/M2T2-React-Desafio-08-To-Do-List/blob/main/To-Do-List.gif" align="center"/>
+  </div>
+</div>
